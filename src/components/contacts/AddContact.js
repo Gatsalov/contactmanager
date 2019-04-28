@@ -90,7 +90,7 @@ class AddContact extends Component {
                     error={errors.phone}
                   />
                   <input type="submit" 
-                    value="Edit Contact" 
+                    value="Add Contact" 
                     className="btn btn-light btn-block"
                     style={{cursor: "pointer"}}/>
                 </form>
